@@ -1,1 +1,1 @@
-# REST-API-with-JAX_RS
+# REST-API-with-JAX-RS
